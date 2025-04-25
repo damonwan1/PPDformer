@@ -36,3 +36,18 @@ This project is licensed under the APache 2.0 License - see the LICENSE file for
 ## Acknowledgements
 
 We would like to thank all contributors and collaborators for their input and support.
+
+## 📄 Citation
+
+If you use this repo or our model, please cite:
+
+```bibtex
+@inproceedings{wan2025ppdformer,
+  title={PPDformer: Channel-Specific Periodic Patch Division for Time Series Forecasting},
+  author={Wan, Meng and Su, Qi and Hao, Huan and Wang, Jue and Cui, Yuexiu and Bi, Yuxuan and Cao, Rongqiang and Shi, Peng and Wang, Yangang and Qiu, Zonghua and others},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
+}
+```
